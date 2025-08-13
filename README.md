@@ -45,12 +45,14 @@ The plugin generates a modular structure: `constants`, `services`, `models`, `co
 ---
 
 ### Team  
-**Lead Developer:** Muhammad Abbas 
-🔗 [GitHub](https://github.com/Abbas355)  
+
+**Lead Developer:** Muhammad Abbas  
+🔗 [GitHub](https://github.com/Hamzah660660)  
 
 **Flutter Developer:** Hamza Ashraf  
-🔗 [GitHub](https://github.com/Hamzah660660)  
+🔗 [GitHub](https://github.com/Abbas355)  
 
 **Project Manager:** Mujahid Hussain  
 🔗 [GitHub](https://github.com/MtechiTsolution)  
+
 
