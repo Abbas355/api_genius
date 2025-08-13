@@ -45,7 +45,7 @@ The plugin generates a modular structure: `constants`, `services`, `models`, `co
 ---
 
 ### Team  
-**Lead Developer:** Muhammad Abbas – Senior Flutter Developer  
+**Lead Developer:** Muhammad Abbas 
 🔗 [GitHub](https://github.com/Abbas355)  
 
 **Flutter Developer:** Hamza Ashraf  
@@ -53,3 +53,4 @@ The plugin generates a modular structure: `constants`, `services`, `models`, `co
 
 **Project Manager:** Mujahid Hussain  
 🔗 [GitHub](https://github.com/MtechiTsolution)  
+
